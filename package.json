@@ -1,0 +1,24 @@
+{
+  "name": "libellenatlas",
+  "version": "1.0.0",
+  "description": "Libellenatlas NRW des LWL Naturkundemuseums Muenster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Libellenatlas",
+    "gulp",
+    "LWL"
+  ],
+  "author": "Karsten Berlin",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat": "^2.6.0",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-responsive": "^2.6.0"
+  }
+}
